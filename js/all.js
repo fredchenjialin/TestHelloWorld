@@ -13,3 +13,7 @@ function SubmitInfo() {
 function Show() {
     window.location.href=("/list.html");
 }
+
+function Back() {
+    window.location.href=("/");
+}
